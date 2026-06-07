@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Demo1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Steve","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Demo2","traits":[],"initialLevel":1,"maxLevel":99,"name":"White","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Demo1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shadowman","nickname":"","note":"","profile":""}
+]

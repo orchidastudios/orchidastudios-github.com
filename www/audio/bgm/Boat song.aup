@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Boat song_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="31.1411256802" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Giselle Petrie"/>
+		<tag name="TITLE" value="Boat song"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="encoder" value="Lavf52.93.0"/>
+	</tags>
+	<wavetrack name="Boat song" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1693696">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808045.au" len="262144" min="-0.146484" max="0.156219" rms="0.02914"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808b30.au" len="262144" min="-0.153046" max="0.172607" rms="0.02809"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080801a.au" len="262144" min="-0.232819" max="0.251343" rms="0.038235"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08084ba.au" len="262144" min="-0.244263" max="0.247131" rms="0.03694"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808ca0.au" len="262144" min="-0.240082" max="0.270447" rms="0.035058"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808d68.au" len="262144" min="-0.182617" max="0.226563" rms="0.035075"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808fb3.au" len="120832" min="-0.196198" max="0.199219" rms="0.033577"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Boat song" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1693696">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808084.au" len="262144" min="-0.069916" max="0.080994" rms="0.015024"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08082bb.au" len="262144" min="-0.076172" max="0.082855" rms="0.014675"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08083ef.au" len="262144" min="-0.102356" max="0.108856" rms="0.018276"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808521.au" len="262144" min="-0.10556" max="0.124268" rms="0.017117"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08080e0.au" len="262144" min="-0.100067" max="0.094818" rms="0.016422"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080877a.au" len="262144" min="-0.087585" max="0.096436" rms="0.01578"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808b73.au" len="120832" min="-0.085175" max="0.089325" rms="0.014751"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
