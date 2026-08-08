@@ -9,6 +9,11 @@ body {
   100% { transform: scale(1); }
 }
 
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
 button:hover {
   animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
 }
