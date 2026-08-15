@@ -2,6 +2,7 @@ body {
   background-color: #DCCADA;
   color: black;
   font-family: Verdana;
+  word-wrap: break-word;
 }
 @keyframes pulse {
   0% { transform: scale(1); }
