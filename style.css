@@ -3,7 +3,6 @@ body {
   color: black;
   font-family: Verdana;
   word-wrap: break-word;
-  padding: 110px;
 }
 @keyframes pulse {
   0% { transform: scale(1); }
@@ -55,7 +54,7 @@ button:hover {
 h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {text-align: center;}
-p {text-align: center;}
+p {text-align: center;   padding: 110px;}
 div {text-align: center;}
 
 .centre {
