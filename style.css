@@ -3,7 +3,7 @@ body {
   color: black;
   font-family: Verdana;
   word-wrap: break-word;
-  padding: 12px 13px;
+  padding: 40px 13px;
 }
 @keyframes pulse {
   0% { transform: scale(1); }
