@@ -65,4 +65,6 @@ div {text-align: center;}
 img
 {
    max-width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
