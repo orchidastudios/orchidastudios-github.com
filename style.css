@@ -53,8 +53,8 @@ button:hover {
 
 h1 {text-align: center;}
 h2 {text-align: center;}
-h3 {text-align: center;}
-p {text-align: center; padding-left: 500px; padding-right: 500px; }
+h3 {text-align: center; max-width: 100%; }
+p {text-align: center; padding-left: 500px; padding-right: 500px; max-width: 100%; }
 div {text-align: center;}
 
 .centre {
