@@ -65,6 +65,6 @@ div {text-align: center;}
 
 img
 {
-  display: flex;
+  display: block;
   object-fit: cover;
 }
