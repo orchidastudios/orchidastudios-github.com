@@ -59,12 +59,12 @@ div {text-align: center;}
 
 .centre {
   display: flex;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 img
 {
-  object-fit: block;
+  object-fit: flex;
   display: flex;
 }
