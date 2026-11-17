@@ -59,8 +59,8 @@ div {text-align: center;}
 
 .centre {
   display: flex;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 img
