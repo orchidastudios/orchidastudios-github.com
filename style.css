@@ -65,6 +65,7 @@ div {text-align: center;}
 
 img
 {
+  float: left
   object-fit: flex;
   display: flex;
 }
