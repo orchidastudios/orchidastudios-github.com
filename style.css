@@ -58,7 +58,7 @@ p {text-align: center; padding-left: 10%; padding-right: 10%; }
 div {text-align: center;}
 
 .centre {
-  display: flex;
+  display: block;
   margin-left: 10%;
   margin-right: 10%;
 }
